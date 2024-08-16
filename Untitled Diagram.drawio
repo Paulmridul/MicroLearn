@@ -10,6 +10,12 @@
         <mxCell id="-KLPiGGmlbK-XOIlN1mH-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="410" y="30" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="-KLPiGGmlbK-XOIlN1mH-3" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="-KLPiGGmlbK-XOIlN1mH-4" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="410" y="290" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
